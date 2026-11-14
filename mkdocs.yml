@@ -1,0 +1,26 @@
+site_name: Technician Toolkit
+site_description: Diagnostic scripts and troubleshooting procedures for IT support
+theme:
+  name: material
+  language: en
+nav:
+  - Home: index.md
+  - Forgotten password: procedures/forgotten-password.md
+  - Printer offline: procedures/printer-offline.md
+  - No Internet access: procedures/no-internet.md
+  - Slow computer: procedures/slow-computer.md
+  - Blue screen: procedures/blue-screen.md
+  - WiFi connection issues: procedures/wifi-connection.md
+  - VPN connection: procedures/vpn-connection.md
+  - Install software: procedures/install-software.md
+  - Set up email: procedures/email-setup.md
+  - Recover a deleted file: procedures/recover-deleted-file.md
+
+
+
+
+
+
+
+
+
